@@ -1,0 +1,7 @@
+li a {
+    color: green;
+}
+
+body {
+    background: cyan url("images/flower.jpg") no-repeat;
+}
